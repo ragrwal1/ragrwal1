@@ -32,4 +32,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragrwal1" alt="ragrwal1" /></a> </p>
 
-[![Spotify](https://novatorem-pi-three.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/3ve22ylof4e1qk2ekt8yxt05n)
+[<img src="https://novatorem-pi-three.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
